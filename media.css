@@ -1,0 +1,115 @@
+@media (max-width: 1500px) {
+
+    .davo-header{
+        background: linear-gradient(to bottom, #6FB1E5, rgba(111, 177, 229, 0.35));
+        padding-left: 10vw;
+        padding-right: 10vw;
+        padding-bottom: 60px;
+        padding-top: 60px;
+    }
+
+    .davo-hero-title{
+        text-align: center;
+        font-size: 2.2em;
+    }
+
+    .davo-hero-subtitle{
+        font-size: 1.25em;
+        line-height: 30px;
+    }
+
+    .works{
+        padding-top: 60px;
+        padding-bottom: 60px;
+        padding-left: 10vw;
+        padding-right: 10vw;
+    }
+
+    .davo-works-title{
+        font-size: 1.6em;
+    }
+
+    .davo-works-subtitle{
+        padding-left: 0;
+        padding-right: 0;
+        font-size: 1.25em;
+        line-height: 30px;
+    }
+
+    .davo-works-icon-subtitle{
+        padding-left: 0;
+        padding-right: 0;
+        font-size: 1.25em;
+        line-height: 30px;
+        margin-bottom: 40px;
+    }
+
+    .davo-contact{
+        padding-top: 60px;
+        padding-bottom: 60px;
+        padding-left: 5vw;
+        padding-right: 5vw;
+    }
+
+    .davo-contact-title{
+        padding-left: 5vw;
+        padding-right: 5vw;
+        font-size: 1.6em;
+    }
+
+    .davo-contact-subtitle{
+        font-size: 1.25em;
+        line-height: 30px;
+        padding-left: 5vw;
+        padding-right: 5vw;
+    }
+
+    .davo-contact-number-email{
+        font-size: 1.25em;
+        line-height: 30px;
+        padding-left: 5vw;
+        padding-right: 5vw;
+        margin-bottom: 40px;
+    }
+
+
+    .input-container{
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .davo-footer{
+        padding-top: 60px;
+        padding-bottom: 60px;
+        padding-left: 10vw;
+        padding-right: 10vw;
+    }
+
+    .davo-footer-items{
+        margin-top: 20px;
+    }
+
+    .davo-footer-item-copyright{
+        text-align: center;
+    }
+
+    .icon-image{
+        margin-bottom: 40px;
+        width: 18vh;
+        text-align: center;
+    }
+}
+
+@media (max-width: 758px) {
+    .ios{
+        display: block;
+        margin: auto;
+        width: 58vw;
+    }
+
+    .android{
+        display: block;
+        margin: auto;
+        width: 60vw;
+    }
+}
